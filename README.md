@@ -18,9 +18,9 @@ Inspired by [Why Modern Teams Choose Prefect](https://www.prefect.io/blog/airflo
 
 ---
 ## 📚 Resources
-- [Prefect Docs (v2+)] (https://docs.prefect.io/v3/get-started)
-- [Prefect Blog] (https://www.prefect.io/blog)
-- [From Airflow to Prefect – Blog] (https://www.prefect.io/blog/airflow-to-prefect-why-modern-teams-choose-prefect)
+- [Prefect Docs (v2+)](https://docs.prefect.io/v3/get-started)
+- [Prefect Blog](https://www.prefect.io/blog)
+- [From Airflow to Prefect – Blog](https://www.prefect.io/blog/airflow-to-prefect-why-modern-teams-choose-prefect)
 
 
 ---
