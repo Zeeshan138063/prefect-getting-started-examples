@@ -17,6 +17,15 @@ Inspired by [Why Modern Teams Choose Prefect](https://www.prefect.io/blog/airflo
 - httpx (for API call demo)
 
 ---
+## 📚 Resources
+Prefect Docs (v2+)
+
+Prefect Blog
+
+From Airflow to Prefect – Blog
+
+
+---
 
 ## 🚀 Quick Start
 
